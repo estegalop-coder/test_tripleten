@@ -1,2 +1,4 @@
 # test_tripleten
-Enseñar git
+Enseñar gitd
+hola
+como estas?
